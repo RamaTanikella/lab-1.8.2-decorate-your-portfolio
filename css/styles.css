@@ -1,0 +1,41 @@
+body {
+    font-family: Algerian;
+    background-color: lightblue;
+
+}
+
+#name {
+    color: darkblue;
+    text-align: center;
+}
+
+.name-container{
+    border-width: 5px;
+    border: solid #000;
+    border-radius: 5px;
+}
+
+
+
+.me{
+    
+    text-align: center;
+    border-radius: 100px;
+}
+
+.blurb {
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-family:fantasy
+}
+
+.projTitle{
+    text-align: center;
+}
+
+
+*{font-family:fantasy;}
+.center{
+    text-align: center;
+}
